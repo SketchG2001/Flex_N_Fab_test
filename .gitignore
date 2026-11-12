@@ -1,0 +1,16 @@
+.venv*/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+/tmp/
+/reports/
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
+
